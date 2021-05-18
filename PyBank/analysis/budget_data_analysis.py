@@ -1,7 +1,7 @@
 import os
 
 #set the path for the file
-csvpath = os.path.join("..", "Resources", "Resources_budget_data.csv")
+csvpath = os.path.join("..", "Resources", "budget_data.csv")
 
 #open the csv
 import csv
